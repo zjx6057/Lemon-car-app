@@ -1,0 +1,21 @@
+{
+  "name": "柠檬汽车出口报价系统",
+  "short_name": "柠檬报价",
+  "description": "专业的汽车出口EXW/FOB/CIF全链报价工具，集成AI识车与实时汇率。",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/741/741407.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#eab308",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
